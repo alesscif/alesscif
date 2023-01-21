@@ -2,23 +2,25 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Back End development at Bloom Institute of Technology.
+- 🎓 &nbsp; Back-end development student at Bloom Institute of Technology
+- 🧠 &nbsp; Philosophical pragmatist, most influenced by William James, Ludwig Wittgenstein and Friedrich Nietzsche
+- 🎼 &nbsp; [Trained classical musician](https://soundcloud.com/alesscif/chopin-op-10-n-1?si=091d7414932a48e2b5a76a67c9245ea1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
+- 📖 &nbsp; Avid reader of classic and contemporary literature.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  <br>![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  <br>![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
-  <br>![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=Amazon%20DynamoDB)
-  <br>![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-  <br>![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-333333?style=flat&logo=intellij-idea)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<br>![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+<br>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<br>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<br>![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 <br/>
 
