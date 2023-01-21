@@ -1,13 +1,13 @@
 <h2> Hey there! I'm Alessandro.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> About Me </h3>
 
 - 🎓 &nbsp; Back-end development student at Bloom Institute of Technology
 - 🧠 &nbsp; Philosophical pragmatist, most influenced by William James, Ludwig Wittgenstein and Friedrich Nietzsche
 - 🎼 &nbsp; [Trained classical musician](https://soundcloud.com/alesscif/chopin-op-10-n-1?si=091d7414932a48e2b5a76a67c9245ea1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
 - 📖 &nbsp; Avid reader of classic and contemporary literature.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> Tech Stack</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
