@@ -32,6 +32,6 @@
 <h3> Contact links </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/alessandro-ciogli-a7018524a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alessandro%20Ciogli-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:alexciogli1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alexciogli1@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/alessandro-ciogli-a7018524a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:alexciogli1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
