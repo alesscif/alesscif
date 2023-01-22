@@ -25,7 +25,6 @@
 <br/>
 
 ![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alesscif)
-
 <br/>
 
 <h3> Contact links </h3>
