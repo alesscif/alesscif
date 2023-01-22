@@ -29,7 +29,7 @@
 
 <br/>
 
-<h3> Get in touch </h3>
+<h3> Contact links </h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alessandro-ciogli-a7018524a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alessandro%20Ciogli-blue?style=flat-square&logo=linkedin"></a>
