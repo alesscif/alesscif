@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Back-end development student at Bloom Institute of Technology
 - 🧠 &nbsp; Philosophical pragmatist most influenced by William James, Ludwig Wittgenstein and Friedrich Nietzsche
-- 🎼 &nbsp; [Trained classical musician](https://soundcloud.com/alesscif/chopin-op-10-n-1?si=091d7414932a48e2b5a76a67c9245ea1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
+- 🎼 &nbsp; [Classicaly trained musician](https://soundcloud.com/alesscif/chopin-op-10-n-1?si=091d7414932a48e2b5a76a67c9245ea1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
 - 📖 &nbsp; Avid reader of classic and contemporary literature.
 
 <h3> Tech Stack</h3>
