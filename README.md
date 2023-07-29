@@ -2,7 +2,7 @@
 
 <h3> About Me </h3>
 
-- 🎓 &nbsp; Full-stack development graduate of Cook System's FastTrack program
+- 🎓 &nbsp; Full-stack development graduate of Cook Systems' FastTrack program
 - 🎓 &nbsp; Back-End development graduate of BloomTech's Backend Development Program
 - 🧠 &nbsp; Philosophical pragmatist most influenced by William James, Ludwig Wittgenstein and Friedrich Nietzsche
 - 📖 &nbsp; Avid reader of classic and contemporary literature.
