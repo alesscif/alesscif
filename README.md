@@ -1,13 +1,13 @@
-<h2> Hey there! I'm Alessandro.</h2>
+<h2> Hey there!</h2>
 
 <h3> About Me </h3>
 
-- 🎓 &nbsp; Full-stack development graduate of Cook Systems' FastTrack program
-- 🎓 &nbsp; Back-End development graduate of BloomTech's Backend Development Program
-- 🧠 &nbsp; Philosophical pragmatist most influenced by William James, Ludwig Wittgenstein and Friedrich Nietzsche
-- 📖 &nbsp; Avid reader of classic and contemporary literature.
-- 🎼 &nbsp; [Classicaly trained musician](https://soundcloud.com/alesscif/chopin-op-10-n-1?si=091d7414932a48e2b5a76a67c9245ea1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
-- 🎮 &nbsp; [Exceptionally proficient rhythm game player](https://www.youtube.com/watch?v=OobxK5NUzOI)
+Philosophical pragmatist most influenced by William James, Ludwig Wittgenstein and Friedrich Nietzsche
+
+Avid reader of classic and contemporary literature.
+
+[Classicaly trained musician](https://soundcloud.com/alesscif/chopin-op-10-n-1?si=091d7414932a48e2b5a76a67c9245ea1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
+[Proficient rhythm game player](https://www.youtube.com/watch?v=OobxK5NUzOI)
 
 
 <h3> Tech Stack</h3>
